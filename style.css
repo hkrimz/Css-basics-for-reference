@@ -1,0 +1,28 @@
+p{
+    background-color: blue;
+    font-size: 75px;
+}
+.classtext{
+    background-color: aqua;
+}
+#id{
+    background-color: crimson;
+}
+
+.div{
+    background-color: darkred;
+}
+.list{
+    font-size: larger;
+    background-color: green;
+}
+#about{
+    background-color: aqua;
+}
+.lists{
+    font-weight: bolder;
+    background-color: brown;
+}
+#class{
+    background-color: chartreuse;
+}
